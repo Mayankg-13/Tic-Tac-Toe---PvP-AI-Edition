@@ -23,7 +23,7 @@ Supports both **Player vs Player** and **Player vs AI** modes — with features 
 
 ## 🚀 Live Demo
   
-[🔗 View Live](https://Mayankg-13.github.io/PRODIGY_WD_03/)  
+[🔗 View Live](https://Mayankg-13.github.io/Tic-Tac-Toe---PvP-AI-Edition)  
 
 
 ## 📁 Project Structure
